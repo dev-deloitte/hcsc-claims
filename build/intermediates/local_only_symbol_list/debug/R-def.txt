@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+id action_claimsFragment_to_claimsDetailFragment
+id claimsDetailFragment
+id claimsFragment
+id nav_claims
+navigation nav_claims
+string label_claim_id
+string label_claim_service
+string label_claim_status
+string label_claim_submitted
+string label_claim_total
+string label_claim_type
+string label_last_updated
+string label_member
+string label_you_may_owe

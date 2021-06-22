@@ -1,0 +1,41 @@
+[
+  {
+    "member_name": "Alex Smith",
+    "claim_id": "1232134234231",
+    "claim_submission_date": "14-12-2021",
+    "claim_total": 245,
+    "owed_by_member": 23,
+    "claim_requestor": "Dr. Juanl Winn",
+    "claim_type": "Dental",
+    "claim_status": "Processed",
+    "claim_service_date": "14-12-2021",
+    "last_updated": "14-12-2021",
+    "claim_in_network_discount": 100
+  },
+  {
+    "member_name": "Sergio Ramos",
+    "claim_id": "1232134234232",
+    "claim_submission_date": "16-12-2021",
+    "claim_total": 145,
+    "owed_by_member": 23,
+    "claim_requestor": "Corner Pharmacy & Drug",
+    "claim_type": "Medical",
+    "claim_status": "Paid",
+    "claim_service_date": "14-12-2021",
+    "last_updated": "14-12-2021",
+    "claim_in_network_discount": 70
+  },
+  {
+    "member_name": "Viero Marcelo",
+    "claim_id": "1232134234233",
+    "claim_submission_date": "18-12-2021",
+    "claim_total": 345,
+    "owed_by_member": 23,
+    "claim_requestor": "Northwestern Medical",
+    "claim_type": "Dental",
+    "claim_status": "Denied",
+    "claim_service_date": "14-12-2021",
+    "last_updated": "14-12-2021",
+    "claim_in_network_discount": 85
+  }
+]

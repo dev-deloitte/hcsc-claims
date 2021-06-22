@@ -1,0 +1,2 @@
+com/hcsc/claims/BuildConfig.java
+ com.hcsc.claims.BuildConfig

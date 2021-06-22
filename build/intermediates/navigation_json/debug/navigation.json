@@ -1,0 +1,31 @@
+[
+  {
+    "name": "nav_claims",
+    "navigationXmlIds": [],
+    "deepLinks": [
+      {
+        "schemes": [
+          "hcsc"
+        ],
+        "host": "claims",
+        "port": -1,
+        "path": "/",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mFilePath": "/Users/debassen/Documents/GitHub/hcsc_android_modularisation/feature_claims/src/main/res/navigation/nav_claims.xml",
+            "mDescription": "nav_claims"
+          },
+          "mSourcePosition": {
+            "mStartLine": 11,
+            "mStartColumn": 8,
+            "mStartOffset": 405,
+            "mEndLine": 11,
+            "mEndColumn": 44,
+            "mEndOffset": 441
+          }
+        },
+        "isAutoVerify": false
+      }
+    ]
+  }
+]
